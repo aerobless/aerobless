@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Theo 👋
 
 Here's some cool stuff that I'm working on 😄
 
