@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Here's some cool stuff that I'm working on 😄
+
+- **Smart Home**
+  - [my SmartHome documentation](https://aerobless.github.io/SmartHome)
+  - [Home Assistant configuration](https://github.com/aerobless/home-assistant-configuration)
+- **VR & Game Development**
+  - [SnowfallVR](https://github.com/aerobless/SnowfallVR)
+
 <!--
 **aerobless/aerobless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
