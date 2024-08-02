@@ -2,14 +2,14 @@
 
 Here's some cool stuff that I'm working on 😄
 
-- **Smart Home**
-  - [my SmartHome documentation](https://aerobless.github.io/SmartHome)
-  - [Home Assistant configuration](https://github.com/aerobless/home-assistant-configuration)
-- **VR & Game Development**
-  - [PeiramaVR](https://github.com/aerobless/PeiramaVR)
-  - [SnowfallVR](https://github.com/aerobless/SnowfallVR)
-- **Various**
-  - [Personal Wiki](https://wiki.w1nter.com)
+- [📍Thereabout](https://github.com/aerobless/thereabout): Thereabout is a self-hosted replacement for Google Location History.
+- [🪴 Digital Garden](https://wiki.w1nter.com): My digital garden, made with Obsidian.md.
+
+and some older projects ...
+- [my SmartHome documentation](https://aerobless.github.io/SmartHome)
+- [Home Assistant configuration](https://github.com/aerobless/home-assistant-configuration)
+- [Sky Inn VR Game](https://github.com/aerobless/PeiramaVR)
+- [Strange Dungeon VR Game](https://github.com/aerobless/StrangeDungeonVR)
 
 <!--
 **aerobless/aerobless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
