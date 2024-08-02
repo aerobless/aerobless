@@ -9,7 +9,7 @@ Here's some cool stuff that I'm working on 😄
   - [PeiramaVR](https://github.com/aerobless/PeiramaVR)
   - [SnowfallVR](https://github.com/aerobless/SnowfallVR)
 - **Various**
-  - [Personal Wiki](https://aerobless.gitbook.io/wiki/)
+  - [Personal Wiki](https://wiki.w1nter.com)
 
 <!--
 **aerobless/aerobless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
