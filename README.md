@@ -3,7 +3,7 @@
 Here's some cool stuff that I'm working on 😄
 
 - [📍Thereabout](https://github.com/aerobless/thereabout): Thereabout is a self-hosted replacement for Google Location History.
-- 
+
 <!--
 **aerobless/aerobless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
